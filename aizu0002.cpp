@@ -8,7 +8,6 @@ int main()
 {
     int a;
     int b;
-    int sum;
     while(cin >> a >> b)
     {
         string sum = to_string(a + b);
